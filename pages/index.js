@@ -1,0 +1,1 @@
+export default function Home() { return (<main style={{padding:40}}><h1>U-Stay Japan Private Car Service</h1><p>Premium private transfers in Tokyo & Hokkaido.</p><a href='https://wa.me/81XXXXXXXXX'>WhatsApp Us</a></main>) }
